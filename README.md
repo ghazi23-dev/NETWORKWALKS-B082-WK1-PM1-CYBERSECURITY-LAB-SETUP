@@ -217,5 +217,5 @@ permission to test is illegal. Keep it in the lab.
 
 ## Author
 
-Ghazi - Cybersecurity Engineering student, EPI Digital School, Sousse, Tunisia
-GitHub: [@ghazi23-dev](https://github.com/ghazi23-dev)
+Ghazi Smach
+
