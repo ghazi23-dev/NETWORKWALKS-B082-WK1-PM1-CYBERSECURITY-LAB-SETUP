@@ -1,0 +1,17 @@
+# Virtual machine artifacts — never commit these
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.ova
+*.iso
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
